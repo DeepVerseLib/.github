@@ -1,2 +1,0 @@
-# .github
-The DeepVerse Library
